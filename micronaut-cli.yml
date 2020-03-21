@@ -1,0 +1,8 @@
+profile: service
+defaultPackage: com.milunas.subscription
+---
+testFramework: spock
+sourceLanguage: groovy
+---
+application:
+  max: 50

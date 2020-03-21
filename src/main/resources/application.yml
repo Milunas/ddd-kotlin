@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: com.milunas.subscription
+  server:
+    port: 8888
